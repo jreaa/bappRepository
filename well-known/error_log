@@ -1,0 +1,915 @@
+[09-Nov-2020 14:47:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 15:59:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 15:59:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:00:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:01:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:03:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:03:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'soporteBapp', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Databa in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:09:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:09:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:10:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:10:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:12:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:19:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'sopo77862_soporteBapp'@'localhost' (using password: YES) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'sopo77862_sopor...', '!VOdudL^JfMm', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Nov-2020 16:48:00 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[09-Nov-2020 16:48:00 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[09-Nov-2020 16:48:00 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[09-Nov-2020 16:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:47:40 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:40 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:40 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:47:57 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:57 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:57 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:47:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:48:09 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:09 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:09 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:48:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:30 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:30 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:50:09 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:09 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:09 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:50:21 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:21 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:21 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:50:35 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:35 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:35 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 03:50:51 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:51 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:51 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 03:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 16:39:44 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 16:39:44 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 16:39:44 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 16:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/control_temperatura.php(16): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[10-Nov-2020 19:52:27 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 19:52:27 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 19:52:27 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[10-Nov-2020 19:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function connection() on null in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php:87
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php(6): Illuminate\Database\Capsule\Manager::table('postulante')
+#1 /home/sopo77862/ocatest.soporbapp.cl/Test_achs.php(31): include('/home/sopo77862...')
+#2 {main}
+  thrown in /home/sopo77862/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 87
+[12-Nov-2020 13:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_dcode() in /home/sopo77862/ocatest.soporbapp.cl/agregarPostulantes.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/agregarPostulantes.php on line 13
+[12-Nov-2020 13:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Database\MySqlConnection::tale() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php:199
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/agregarPostulantes.php(13): Illuminate\Database\Capsule\Manager::__callStatic('tale', Array)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php on line 199
+[16-Dec-2020 19:25:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sopo77862/ocatest.soporbapp.cl/privileges.php on line 39
+[17-Dec-2020 19:45:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_examen' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ex...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `ex...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `ex...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `ex...', Array)
+#5 /home/so in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[17-Dec-2020 19:51:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_examen' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ex...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `ex...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `ex...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `ex...', Array)
+#5 /home/so in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[17-Dec-2020 19:51:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_examen' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ex...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `ex...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `ex...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `ex...', Array)
+#5 /home/so in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[17-Dec-2020 20:02:58 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/sopo77862/ocatest.soporbapp.cl/addCargos.php on line 34
+[18-Dec-2020 18:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/sopo77862/ocatest.soporbapp.cl/addCargos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/addCargos.php on line 12
+[22-Dec-2020 11:52:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sopo77862/ocatest.soporbapp.cl/templates/header.php on line 319
+[22-Dec-2020 11:53:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sopo77862/ocatest.soporbapp.cl/templates/header.php on line 319
+[22-Dec-2020 11:54:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sopo77862/ocatest.soporbapp.cl/templates/header.php on line 319
+[23-Dec-2020 20:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uppercase() in /home/sopo77862/ocatest.soporbapp.cl/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 60
+[23-Dec-2020 20:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uppercase() in /home/sopo77862/ocatest.soporbapp.cl/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 60
+[24-Dec-2020 12:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uncword() in /home/sopo77862/ocatest.soporbapp.cl/agregarPostulantes.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/agregarPostulantes.php on line 30
+[24-Dec-2020 20:58:41 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[24-Dec-2020 20:58:41 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[24-Dec-2020 20:58:41 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:26 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:26 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:26 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:27 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:27 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:27 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:42 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:42 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:42 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:49 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:49 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:49 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:52 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:52 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:02:52 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:03:01 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:03:01 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[28-Dec-2020 04:03:01 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[31-Dec-2020 12:09:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:11:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:12:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:14:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:15:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:16:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:16:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:16:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:16:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:37:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:40:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 12:41:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 20:42:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-Dec-2020 20:42:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Jan-2021 13:50:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Jan-2021 13:50:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[04-Jan-2021 15:19:55 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/sopo77862/ocatest.soporbapp.cl/tests.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/tests.php on line 92
+[04-Jan-2021 21:56:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[04-Jan-2021 22:08:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[04-Jan-2021 22:08:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[05-Jan-2021 21:53:37 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[05-Jan-2021 21:53:37 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[05-Jan-2021 21:53:37 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:44:50 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:44:50 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:44:50 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:48:23 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:48:23 UTC] PHP Warning:  include(../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[06-Jan-2021 17:48:23 UTC] PHP Warning:  include(): Failed opening '../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/templates/postulantes_lista.php on line 3
+[07-Jan-2021 16:40:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 102
+[07-Jan-2021 16:50:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 140
+[07-Jan-2021 16:54:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 140
+[07-Jan-2021 16:55:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 138
+[07-Jan-2021 17:00:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 152
+[07-Jan-2021 17:01:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/preventivo.php on line 152
+[08-Jan-2021 03:56:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[08-Jan-2021 03:56:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[08-Jan-2021 03:56:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[08-Jan-2021 03:57:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[08-Jan-2021 03:57:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Jan-2021 16:52:39 UTC] PHP Warning:  Unterminated comment starting line 7 in /home/sopo77862/ocatest.soporbapp.cl/agendarCita.php on line 7
+[12-Jan-2021 17:46:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/seguros.php on line 107
+[12-Jan-2021 20:13:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.matencion_siniestro' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[20-Jan-2021 20:44:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 20:44:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:07:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:09:07 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:09:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:10:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:12:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:12:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:13:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:13:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:15:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:15:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:23:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:23:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:23:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:23:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:24:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:24:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:24:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:29:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:30:00 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:30:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 21:30:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 23:05:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 23:05:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 23:08:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 23:29:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Jan-2021 23:55:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 00:16:33 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 00:16:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 00:17:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 00:18:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 00:18:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 05:18:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 17:11:07 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Jan-2021 20:36:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[28-Jan-2021 21:55:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[28-Jan-2021 21:55:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[29-Jan-2021 20:57:10 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/sopo77862/ocatest.soporbapp.cl/templates/header.php on line 22
+[29-Jan-2021 20:57:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sopo77862/ocatest.soporbapp.cl/templates/header.php on line 270
+[21-Feb-2021 03:47:09 UTC] PHP Warning:  Unterminated comment starting line 4 in /home/sopo77862/ocatest.soporbapp.cl/form.php on line 4
+[23-Feb-2021 16:29:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[23-Feb-2021 16:29:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Mar-2021 20:24:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Mar-2021 20:24:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Mar-2021 20:24:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[14-Mar-2021 02:47:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[14-Mar-2021 02:47:33 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[14-Mar-2021 02:47:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:28 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:39:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[24-Mar-2021 21:40:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 16:24:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:18:28 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:18:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:38:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:38:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:39:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:42:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:42:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Apr-2021 17:42:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[12-Apr-2021 21:14:24 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[12-Apr-2021 21:14:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[14-Apr-2021 20:07:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[14-Apr-2021 20:15:12 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 04:42:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 04:42:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 04:45:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 04:46:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 22:21:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[16-Apr-2021 22:21:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Apr-2021 20:04:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Apr-2021 20:05:00 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Apr-2021 20:05:07 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[22-Apr-2021 00:52:48 UTC] PHP Warning:  session_destroy() expects exactly 0 parameters, 1 given in /home/sopo77862/ocatest.soporbapp.cl/calificarEntrevistaPresencial.php on line 41
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:21 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 9
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:34 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 9
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 4
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:37 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 5
+[05-May-2021 06:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/searchCtrl.php on line 9
+[07-May-2021 21:57:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[07-May-2021 22:06:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[26-May-2021 05:37:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:37:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:37:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:37:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:37:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:38:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:39:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 05:40:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cargo' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 21:26:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[26-May-2021 21:26:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[27-May-2021 23:53:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[31-May-2021 17:54:05 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[31-May-2021 17:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 6
+[31-May-2021 21:48:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[31-May-2021 21:48:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Jun-2021 19:57:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 2
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[07-Jun-2021 15:28:31 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 3
+[07-Jun-2021 15:28:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/comentariosPresencial.php on line 6
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 2
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 2
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 2
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 3
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(../../app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 3
+[07-Jun-2021 16:53:18 UTC] PHP Warning:  include(): Failed opening '../../app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 3
+[07-Jun-2021 16:53:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/comentariosTelefonica.php on line 6
+[07-Jun-2021 16:56:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_status_entrevista' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Jun-2021 22:37:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jun-2021 22:37:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Jun-2021 01:58:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Jun-2021 01:58:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 17:26:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 17:27:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 17:27:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 17:27:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 20:15:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 20:16:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 20:17:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:03:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:03:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:12:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:12:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:12:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[09-Jul-2021 21:13:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[23-Jul-2021 15:39:55 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/vinculacionapi.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vinculacionapi.php on line 10
+[04-Aug-2021 19:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/sopo77862/ocatest.soporbapp.cl/index.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 85
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:49:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 87
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:04 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 19:50:05 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 88
+[04-Aug-2021 21:00:23 UTC] PHP Recoverable fatal error:  Object of class DateInterval could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 117
+[04-Aug-2021 21:00:29 UTC] PHP Recoverable fatal error:  Object of class DateInterval could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 117
+[04-Aug-2021 21:03:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sopo77862/ocatest.soporbapp.cl/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 118
+[04-Aug-2021 21:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sopo77862/ocatest.soporbapp.cl/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/index.php on line 118
+[06-Aug-2021 16:16:27 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 4
+[06-Aug-2021 16:26:27 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 4
+[06-Aug-2021 16:30:04 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 4
+[06-Aug-2021 16:30:06 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 4
+[06-Aug-2021 17:02:38 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 10
+[06-Aug-2021 17:02:53 UTC] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 10
+[06-Aug-2021 17:44:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 72
+[06-Aug-2021 17:44:52 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open PK
+ in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(11): PHPExcel_IOFactory::load('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;head&gt; tag in Entity, line: 1 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 5 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 6 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 9 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 10 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 11 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 17 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 18 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 21 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 21 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 22 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 23 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 29 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 30 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 33 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 33 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 34 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 35 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 41 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 42 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 45 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 45 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 46 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 47 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 53 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 54 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 57 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 57 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 58 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 59 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 65 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 66 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 69 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 69 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 70 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 71 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 77 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 78 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 81 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 81 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 82 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 83 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 89 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 90 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 93 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 93 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 94 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 95 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 101 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 102 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): ID btn already defined in Entity, line: 105 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 105 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 106 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[06-Aug-2021 17:46:54 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 107 in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/HTML.php on line 495
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:00:14 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:14 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:29 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:01:45 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Postulante/Postulante.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:02:59 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(): Failed opening '../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 2
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 16:04:07 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Documentaria/Documentaria.php on line 3
+[09-Aug-2021 19:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 35
+[09-Aug-2021 19:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Shared\Date' not found in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 37
+[09-Aug-2021 19:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 37
+[09-Aug-2021 20:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPExcel::getCell() in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 37
+[09-Aug-2021 20:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPExcel_Worksheet::AgetCell() in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php on line 37
+[09-Aug-2021 20:10:51 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate G in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Cell.php:594
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Worksheet.php(1218): PHPExcel_Cell::coordinateFromString('G')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Worksheet.php(1178): PHPExcel_Worksheet->createNewCell('G')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(37): PHPExcel_Worksheet->getCell('G')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Cell.php on line 594
+[10-Aug-2021 21:29:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Aug-2021 21:29:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[10-Aug-2021 23:58:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Aug-2021 00:07:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Aug-2021 00:08:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Aug-2021 01:36:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Aug-2021 01:54:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[11-Aug-2021 15:29:22 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:30:49 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:33:27 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:34:32 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:36:13 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:44:29 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 15:45:10 UTC] PHP Fatal error:  Uncaught PHPExcel_Reader_Exception: Could not open  for reading! File does not exist. in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:73
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(281): PHPExcel_Reader_Excel2007->canRead('')
+#1 /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('')
+#2 /home/sopo77862/ocatest.soporbapp.cl/importarExcel.php(16): PHPExcel_IOFactory::load('')
+#3 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 73
+[11-Aug-2021 16:09:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17546221-k' for key 'users_rut_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us.. in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[16-Aug-2021 21:17:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 83
+[18-Aug-2021 16:43:12 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 247
+[18-Aug-2021 16:43:17 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 247
+[18-Aug-2021 16:44:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php:246
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 246
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[18-Aug-2021 16:56:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, int given in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 240
+[19-Aug-2021 20:03:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[19-Aug-2021 20:03:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Aug-2021 21:59:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Aug-2021 22:28:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[30-Aug-2021 16:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Database\MySqlConnection::tale() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php:199
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/inductivo.php(161): Illuminate\Database\Capsule\Manager::__callStatic('tale', Array)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php on line 199
+[30-Aug-2021 16:58:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'inductivo_resultado' in 'where clause' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[30-Aug-2021 17:31:14 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/InductivoResultado.php on line 60
+[30-Aug-2021 17:32:37 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/InductivoResultado.php on line 61
+[30-Aug-2021 17:32:37 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/InductivoResultado.php on line 61
+[31-Aug-2021 08:02:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sopo77862/ocatest.soporbapp.cl/calificarEntrevistaTelefonica.php on line 117
+[01-Sep-2021 19:29:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php:316
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 316
+[01-Sep-2021 19:30:49 UTC] PHP Parse error:  syntax error, unexpected 'fecha_inicio' (T_STRING), expecting ',' or ';' in /home/sopo77862/ocatest.soporbapp.cl/clasificacion.php on line 317
+[03-Sep-2021 00:14:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Sep-2021 00:15:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Sep-2021 00:16:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Sep-2021 17:06:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[03-Sep-2021 17:06:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[06-Sep-2021 22:22:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[06-Sep-2021 22:24:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[06-Sep-2021 22:44:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[06-Sep-2021 23:21:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[20-Sep-2021 22:38:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Sep-2021 00:37:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Sep-2021 00:38:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100
+[21-Sep-2021 00:38:28 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/sopo77862/ocatest.soporbapp.cl/Examenes.php on line 100

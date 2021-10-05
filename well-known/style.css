@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-color: #f5f5f5;
+}
+#header{
+    border-bottom: 1px solid #f2f2f2;
+    box-shadow: 1px -2px 4px 1px;
+    background-color: #fff;
+    position: fixed;
+    position: fixed!important;
+    height: auto;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.content{
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.txtFont{
+	font-weight: bold;
+	font-size: 30px;
+}
+.banner1{
+	width: 100%; background: #3ce4af;
+    padding: 50px;
+    background-position: 100% 0%;
+    border-radius: 5px;
+    height: auto;
+    background-position-x: center;
+    height: 300px
+}
+.banner2{
+	width: 100%; background: #5e3ce4;
+    padding: 50px;
+    background-position: 100% 0%;
+    border-radius: 5px;
+    height: auto;height: 300px
+}
+.banner3{
+    width: 100%; background: #62bee8;
+    padding: 50px;
+    background-position: 100% 0%;
+    border-radius: 5px;
+    height: auto;height: 300px
+}
+.banner4{
+    width: 100%; background: #49999a;
+    padding: 50px;
+    background-position: 100% 0%;
+    border-radius: 5px;
+    height: auto;height: 300px
+}
+.button{
+	border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+.button2:hover{
+	background-color: #FFF !important;
+    border: solid 2px #FFF !important;
+    color: #5E3CE4 !important;
+    text-decoration: none!important
+    font-weight:bold;
+}
+.button1:hover{
+	background-color: #FFF !important;
+    border: solid 2px #FFF !important;
+    color: #3CE4AF !important;
+    text-decoration: none!important
+    font-weight:bold;
+}
+.btn-link:hover{
+	text-decoration: none!important
+}
+label{
+    margin-top: 10px!important;
+}
+
+.head_section{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.head_section input{
+    padding: 5px;
+}
+
+@media (max-width: 600px){
+    .head_section{
+        display: block;
+    }
+    .head_section div{
+        margin: 2px;
+    }
+    .textHead{
+        font-size: 1em;
+    }
+    .txtFont
+    {
+        font-size: 20px;
+    }
+}
+.test{
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}

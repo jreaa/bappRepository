@@ -1,0 +1,1173 @@
+[09-Nov-2020 18:06:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'cedula' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `po...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `po...', Array)
+#5 /home/sopo77862 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 16:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'comentario' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `tb...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `tb...', Array)
+#5 /home/sopo7 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 16:54:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'cedula' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `po...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `po...', Array)
+#5 /home/sopo77862 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 17:05:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'comentario' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `tb...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `tb...', Array)
+#5 /home/sopo7 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 17:10:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'start_date' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `tb...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `tb...', Array)
+#5 /home/sopo7 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 17:12:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `tb...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `tb...', Array)
+#5 /home/sopo77 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 19:35:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `tb...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `tb...', Array)
+#5 /home/sopo77 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 19:36:58 UTC] PHP Warning:  Unterminated comment starting line 40 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addCitaTelefonica.php on line 40
+[10-Nov-2020 19:40:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'test' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#5 /home/sopo77862/o in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 19:45:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 19:48:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 19:54:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 20:07:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tests_achs' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `postula...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `postula...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `postula...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `postula...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `postula...', Ar in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Nov-2020 20:15:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Convenio::addCaja(), 8 passed in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/caja_compesacion.php on line 21 and exactly 9 expected in /home/sopo77862/ocatest.soporbapp.cl/app/Convenio/Convenio.php:20
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/caja_compesacion.php(21): Convenio::addCaja('testing', 'testing', 'testing', '1345678-9', 'tsting', 'testing', 'testing', 'testing')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Convenio/Convenio.php on line 20
+[10-Nov-2020 20:23:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/sopo77862/ocatest.soporbapp.cl/app/Desvincular/Desvincular.php on line 42
+[10-Nov-2020 20:26:18 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/sopo77862/ocatest.soporbapp.cl/app/Desvincular/Desvincular.php on line 42
+[11-Nov-2020 18:14:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:15:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:16:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:17:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:18:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:18:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:18:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'description' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:20:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Nov-2020 18:22:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tests_achs' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `postula...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `postula...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `postula...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `postula...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `postula...', Ar in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[24-Nov-2020 21:39:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sopo77862_oca2`.`documentaria`, CONSTRAINT `documentaria_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`)) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `po...', Array, Object(Closure))
+#4 /ho in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-Nov-2020 21:21:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sopo77862_oca2`.`documentaria`, CONSTRAINT `documentaria_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`)) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `po...', Array, Object(Closure))
+#4 /ho in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Dec-2020 19:24:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sopo77862_oca2`.`documentaria`, CONSTRAINT `documentaria_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`)) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `po...', Array, Object(Closure))
+#4 /ho in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Dec-2020 19:39:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sopo77862_oca2`.`mantencion_siniestro`, CONSTRAINT `mantencion_siniestro_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `po...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `po...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection-> in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[14-Dec-2020 23:10:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'disponible' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `postula...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `postula...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `postula...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `postula...', Array)
+# in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[16-Dec-2020 19:29:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 17
+[16-Dec-2020 19:30:02 UTC] PHP Warning:  include(../AddUsers/AddUsers.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 3
+[16-Dec-2020 19:30:02 UTC] PHP Warning:  include(../AddUsers/AddUsers.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 3
+[16-Dec-2020 19:30:02 UTC] PHP Warning:  include(): Failed opening '../AddUsers/AddUsers.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 3
+[16-Dec-2020 19:30:02 UTC] PHP Fatal error:  Uncaught Error: Class 'AddUser' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 12
+[16-Dec-2020 19:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'AddUser' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 12
+[16-Dec-2020 19:32:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postition' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `pr...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /h in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[16-Dec-2020 20:00:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AddUser::addNewUser(), 5 passed in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 14 and exactly 6 expected in /home/sopo77862/ocatest.soporbapp.cl/app/AddUser/AddUsers.php:7
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php(14): AddUser::addNewUser('pedro', 'lopez', 'analista', 2, 'plopez')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/AddUser/AddUsers.php on line 7
+[18-Dec-2020 18:27:26 UTC] PHP Warning:  include(../Cargo/Cargo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 4
+[18-Dec-2020 18:27:26 UTC] PHP Warning:  include(../Cargo/Cargo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 4
+[18-Dec-2020 18:27:26 UTC] PHP Warning:  include(): Failed opening '../Cargo/Cargo.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 4
+[18-Dec-2020 18:27:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Cargo' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 32
+[20-Dec-2020 02:45:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 16:36:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AddUser::upadatePassword() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerUpdateUser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerUpdateUser.php on line 23
+[21-Dec-2020 16:37:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: '4.php' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `privile...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `privile...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `privile...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `privile...', Array)
+# in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 16:38:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: '4.php' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `privile...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `privile...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `privile...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `privile...', Array)
+# in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 16:39:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: '4.php' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `privile...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `privile...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `privile...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `privile...', Array)
+# in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 17:02:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'img' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo77862/oc in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 18:52:24 UTC] PHP Warning:  array_walk() expects parameter 2 to be a valid callback, function 'on' not found or invalid function name in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 8
+[21-Dec-2020 19:08:31 UTC] PHP Warning:  include(../PrivilegesModulo/PrivilegesModulo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:08:31 UTC] PHP Warning:  include(../PrivilegesModulo/PrivilegesModulo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:08:31 UTC] PHP Warning:  include(): Failed opening '../PrivilegesModulo/PrivilegesModulo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:09:50 UTC] PHP Warning:  include(../PrivilegesModulo/PrivilegesModulo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:09:50 UTC] PHP Warning:  include(../PrivilegesModulo/PrivilegesModulo.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:09:50 UTC] PHP Warning:  include(): Failed opening '../PrivilegesModulo/PrivilegesModulo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 5
+[21-Dec-2020 19:16:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PrivilegesModulo::addPrivileges(), 1 passed in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 28 and exactly 2 expected in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php:8
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php(28): PrivilegesModulo::addPrivileges(Array)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 8
+[21-Dec-2020 19:16:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id_user' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo7786 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 19:22:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field '2' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo77862/ocat in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 19:31:07 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ']' in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 11
+[21-Dec-2020 19:37:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 10
+[21-Dec-2020 19:37:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 10
+[21-Dec-2020 19:37:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 10
+[21-Dec-2020 19:37:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '0' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `pr...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 19:41:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '0' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `pr...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 19:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 56
+[21-Dec-2020 20:32:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '0' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `pr...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 20:43:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PrivilegesModulo::addPrivileges(), 2 passed in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php on line 44 and exactly 10 expected in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php:8
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddUsers.php(44): PrivilegesModulo::addPrivileges(Array, 11)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/PrivilegesModulo/PrivilegesModulo.php on line 8
+[21-Dec-2020 20:44:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_user' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Dec-2020 20:49:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_user' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home/sopo in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[23-Dec-2020 17:20:27 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerUpdateUser.php on line 9
+[23-Dec-2020 19:59:20 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddExamen.php on line 11
+[23-Dec-2020 20:04:42 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddExamen.php on line 11
+[23-Dec-2020 20:08:02 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddExamen.php on line 11
+[23-Dec-2020 20:09:06 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerAddExamen.php on line 11
+[23-Dec-2020 20:55:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`test`.`date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('inse in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[24-Dec-2020 20:48:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[28-Dec-2020 14:18:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cargo_postular' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `postula...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `postula...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `postula...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `postula...', Arra in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[28-Dec-2020 14:19:41 UTC] PHP Warning:  Unterminated comment starting line 16 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/updatePostul.php on line 16
+[28-Dec-2020 14:55:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Examen' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerDeleteCitaTelefonica.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerDeleteCitaTelefonica.php on line 10
+[29-Dec-2020 14:55:32 UTC] PHP Warning:  Unterminated comment starting line 5 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addCitaPresencial.php on line 5
+[29-Dec-2020 18:25:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'email' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...',  in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[29-Dec-2020 18:43:38 UTC] PHP Warning:  Unterminated comment starting line 10 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 10
+[29-Dec-2020 18:45:40 UTC] PHP Warning:  Unterminated comment starting line 10 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 10
+[29-Dec-2020 19:15:28 UTC] PHP Warning:  Unterminated comment starting line 10 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 10
+[31-Dec-2020 12:28:48 UTC] PHP Warning:  Unterminated comment starting line 10 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 10
+[31-Dec-2020 12:31:34 UTC] PHP Parse error:  syntax error, unexpected '$n' (T_VARIABLE) in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 40
+[31-Dec-2020 12:32:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'email' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...',  in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[31-Dec-2020 20:46:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `fo...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `fo...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `fo...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `fo...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[04-Jan-2021 15:36:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[04-Jan-2021 15:51:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sopo77862_oca2`.`question`, CONSTRAINT `question_ibfk_1` FOREIGN KEY (`id_test`) REFERENCES `test` (`id`)) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[04-Jan-2021 21:55:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[06-Jan-2021 17:11:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Test::addQuestion(), 6 passed in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addQuestion.php on line 50 and exactly 10 expected in /home/sopo77862/ocatest.soporbapp.cl/app/Test/Test.php:25
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addQuestion.php(50): Test::addQuestion('24', 'tsting2', 'testing', 'testing', 'test', 'question2')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Test/Test.php on line 25
+[07-Jan-2021 17:14:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jan-2021 17:16:28 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addTest.php on line 11
+[07-Jan-2021 17:17:03 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addTest.php on line 11
+[07-Jan-2021 17:19:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[08-Jan-2021 18:02:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `fo...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `fo...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `fo...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `fo...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[08-Jan-2021 18:40:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `fo...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `fo...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `fo...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `fo...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Jan-2021 01:42:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `fo...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `fo...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `fo...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `fo...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Jan-2021 18:55:29 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/documentaria.php on line 9
+[11-Jan-2021 19:34:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'antecendentes_v' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `documen...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `documen... in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Jan-2021 19:36:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'antecendentes_v' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `documen...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `documen... in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[11-Jan-2021 19:38:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'antecendentes_v' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `documen...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `documen... in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[12-Jan-2021 20:05:19 UTC] PHP Warning:  Unterminated comment starting line 29 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/mantencion_siniestro.php on line 29
+[13-Jan-2021 13:44:04 UTC] PHP Warning:  Unterminated comment starting line 8 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteMantencion.php on line 8
+[13-Jan-2021 13:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_econde() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteMantencion.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteMantencion.php on line 13
+[13-Jan-2021 17:29:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pe...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pe...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pe...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pe...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[13-Jan-2021 17:30:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'rut' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pe...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `pe...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `pe...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `pe...', Array)
+#5 /home/sopo7786 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Jan-2021 19:55:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Contenedor' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteContrato.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteContrato.php on line 10
+[19-Jan-2021 13:27:50 UTC] PHP Warning:  include(../VincularPersona/VincularPersona.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php on line 4
+[19-Jan-2021 13:27:50 UTC] PHP Warning:  include(../VincularPersona/VincularPersona.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php on line 4
+[19-Jan-2021 13:27:50 UTC] PHP Warning:  include(): Failed opening '../VincularPersona/VincularPersona.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php on line 4
+[19-Jan-2021 13:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'VincularPersonal' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php on line 10
+[19-Jan-2021 13:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method VincularPersonal::deleteVP() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeletePersonaV.php on line 11
+[19-Jan-2021 13:32:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `vi...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `vi...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `vi...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `vi...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:12:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`tblcita_telefonica`.`start_date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `tblcita...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `tblcita...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `tblcita...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connect in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:17:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'email' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...',  in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:20:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'email' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...',  in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:26:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'email' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...',  in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:29:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`tblcita_telefonica`.`start_date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `tblcita...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `tblcita...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `tblcita...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connect in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:30:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`tblcita_telefonica`.`start_date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `tblcita...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `tblcita...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `tblcita...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connect in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:31:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`tblcita_telefonica`.`start_date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `tblcita...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `tblcita...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `tblcita...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connect in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[21-Jan-2021 17:32:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 18
+[21-Jan-2021 17:32:26 UTC] PHP Warning:  Unterminated comment starting line 22 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 22
+[21-Jan-2021 17:33:05 UTC] PHP Warning:  Unterminated comment starting line 26 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 26
+[28-Jan-2021 19:16:03 UTC] PHP Warning:  Unterminated comment starting line 8 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 8
+[28-Jan-2021 19:16:21 UTC] PHP Warning:  Unterminated comment starting line 8 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 8
+[28-Jan-2021 19:16:32 UTC] PHP Warning:  Unterminated comment starting line 8 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 8
+[28-Jan-2021 19:16:57 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 9
+[28-Jan-2021 19:17:13 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 9
+[28-Jan-2021 19:18:21 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/formatDisc.php on line 9
+[29-Jan-2021 21:15:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Capsule\Manager' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteMensajes.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteMensajes.php on line 10
+[29-Jan-2021 21:16:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.notificacion' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('delete from `no...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `no...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `no...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `no...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(435): Illuminate\Database\Connection->affectingStatement('delet in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[29-Jan-2021 21:17:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.notificacion' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('delete from `no...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('delete from `no...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('delete from `no...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('delete from `no...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(435): Illuminate\Database\Connection->affectingStatement('delet in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Feb-2021 20:39:09 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 9
+[01-Feb-2021 20:39:27 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 11
+[01-Feb-2021 20:39:44 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 11
+[01-Feb-2021 20:40:10 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 9
+[01-Feb-2021 20:45:02 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 11
+[01-Feb-2021 20:46:23 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:46:38 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:47:00 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:47:26 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:47:53 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:49:00 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 12
+[01-Feb-2021 20:55:00 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 14
+[01-Feb-2021 20:55:14 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 14
+[01-Feb-2021 20:55:32 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 14
+[01-Feb-2021 20:56:26 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addPostulante.php on line 14
+[19-Feb-2021 19:58:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_postulante' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:24:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'jornada' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/sopo7786 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:24:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'jornada' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/sopo7786 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:25:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'jornada' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/sopo7786 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:27:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sopo77862_oca2`.`sanitizacion`, CONSTRAINT `sanitizacion_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `sa...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `sa...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `sa...' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:29:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sopo77862_oca2`.`sanitizacion`, CONSTRAINT `sanitizacion_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `sa...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `sa...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `sa...' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 20:29:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sopo77862_oca2`.`sanitizacion`, CONSTRAINT `sanitizacion_ibfk_1` FOREIGN KEY (`id_postulante`) REFERENCES `postulante` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `sa...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `sa...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `sa...' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 22:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'rut' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#5 /home/sopo77862/oc in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 23:00:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'rut' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#5 /home/sopo77862/oc in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 23:01:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'users_email_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert i in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[19-Feb-2021 23:02:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1345678-9' for key 'users_rut_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us... in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[24-Mar-2021 21:32:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sopo77862_oca2`.`test_postulante`, CONSTRAINT `test_postulante_ibfk_1` FOREIGN KEY (`id_test`) REFERENCES `test` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Arra in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 11:56:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '1617278175' for column `sopo77862_oca2`.`control_temp`.`hora` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `control...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `control...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `control...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Conne in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 11:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function DateTime() in /home/sopo77862/ocatest.soporbapp.cl/app/Tmp/Tmp.php:8
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerEditTmp.php(18): Tmp::updateTmp('28', '2021-02-23', NULL, 'realizado', '35', 'salida')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Tmp/Tmp.php on line 8
+[01-Apr-2021 11:58:06 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (Y-m-d) at position 1 (-): Unexpected character in /home/sopo77862/ocatest.soporbapp.cl/app/Tmp/Tmp.php:8
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Tmp/Tmp.php(8): DateTime->__construct('Y-m-d')
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerEditTmp.php(18): Tmp::updateTmp('28', '2021-02-23', NULL, 'realizado', '35', 'salida')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Tmp/Tmp.php on line 8
+[01-Apr-2021 12:22:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:479
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(479): PDO->prepare('update `limpiez...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `limpiez...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `limpiez...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `limpiez...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `limpiez...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 12:23:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect time value: '1617279788' for column `sopo77862_oca2`.`limpieza`.`hora` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `limpiez...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `limpiez...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `limpiez...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->a in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 12:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Sanitizacion::updateSanitizacion() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerEditSanitizacion.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerEditSanitizacion.php on line 17
+[01-Apr-2021 12:53:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Date' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Sanitizacion/Sanitizacion.php:13
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/ControllerEditSanitizacion.php(17): Sanitizacion::updateSanitizacion('5', '2021-02-22', NULL, 'no realizado')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Sanitizacion/Sanitizacion.php on line 13
+[01-Apr-2021 14:14:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'hora' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `li...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `li...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `li...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `li...', Array)
+#5 /home/sopo77862/o in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 14:14:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect time value: '' for column `sopo77862_oca2`.`limpieza`.`hora` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `li...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `li...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `li...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement(' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 14:16:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect time value: '' for column `sopo77862_oca2`.`limpieza`.`hora` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `li...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `li...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `li...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement(' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[01-Apr-2021 14:16:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect time value: '' for column `sopo77862_oca2`.`limpieza`.`hora` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `li...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `li...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `li...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement(' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Apr-2021 16:28:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '09-04-2021' for column `sopo77862_oca2`.`control_temp`.`date` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connectio in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[12-Apr-2021 18:31:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgf@gmail.com' for key 'users_email_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert in in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[22-Apr-2021 01:31:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '27454293-4' for key 'users_rut_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `us.. in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[22-Apr-2021 01:49:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ceobappapp@gmail.com' for key 'users_email_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('inser in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 04:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function where() on int in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php:26
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerEditVehiculo.php(18): Vehiculo::editVehiculo('mercedes', '45556', NULL)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php on line 26
+[26-May-2021 04:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function where() on int in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php:26
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerEditVehiculo.php(17): Vehiculo::editVehiculo('bmw', '45556', '1')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php on line 26
+[26-May-2021 04:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function where() on int in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php:31
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerDeleteVehiculo.php(15): Vehiculo::deleteVehiculo('1')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Vehiculo/Vehiculo.php on line 31
+[26-May-2021 06:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Vinculacion::deleteVinculacion() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controlDeleteVinculacion.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controlDeleteVinculacion.php on line 15
+[26-May-2021 21:15:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`documentaria`.`cedula_v` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->aff in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 21:15:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`documentaria`.`cedula_v` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->aff in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-May-2021 21:36:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jun-2021 15:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function required_once() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php on line 30
+[07-Jun-2021 15:51:37 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/app/StatusPresencial/StatusPresencial.php:18
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php(33): StatusPresencial::addComentarios('40', NULL)
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/StatusPresencial/StatusPresencial.php on line 18
+[07-Jun-2021 15:52:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/app/StatusPresencial/StatusPresencial.php:18
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/EnviarResultados.php(33): StatusPresencial::addComentarios('40', 'Este usuario es...')
+#1 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/StatusPresencial/StatusPresencial.php on line 18
+[07-Jun-2021 15:53:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'comentario' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jun-2021 15:54:08 UTC] PHP Recoverable fatal error:  Object of class StatusPresencial could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/MySqlConnection.php on line 80
+[07-Jun-2021 15:56:08 UTC] PHP Recoverable fatal error:  Object of class StatusPresencial could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/MySqlConnection.php on line 80
+[07-Jun-2021 15:56:39 UTC] PHP Recoverable fatal error:  Object of class StatusPresencial could not be converted to string in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/MySqlConnection.php on line 80
+[07-Jun-2021 16:22:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_entrevista' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `st...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `st...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `st...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `st...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jun-2021 16:25:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_entrevista' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `st...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `st...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `st...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `st...', Array)
+#5 /hom in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jun-2021 16:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'comentario' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[07-Jun-2021 16:59:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+#5 /home/sopo77862/oca in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Jun-2021 01:57:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Jun-2021 01:57:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Jun-2021 01:59:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[10-Jun-2021 02:01:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Jul-2021 21:15:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Jul-2021 21:17:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Jul-2021 21:17:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[09-Jul-2021 21:18:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[12-Jul-2021 22:03:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_entrevista	' in 'field list' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `co...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `co...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `co...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `co...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `co...', Array)
+ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[15-Jul-2021 02:44:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`documentaria`.`cedula_v` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->aff in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[15-Jul-2021 02:44:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `sopo77862_oca2`.`documentaria`.`cedula_v` at row 1 in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->aff in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[15-Jul-2021 03:54:42 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 9
+[15-Jul-2021 03:54:42 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 16
+[15-Jul-2021 03:56:02 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 9
+[15-Jul-2021 03:56:02 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 16
+[15-Jul-2021 03:56:22 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 9
+[15-Jul-2021 03:56:22 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 16
+[15-Jul-2021 04:00:08 UTC] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 22
+[15-Jul-2021 04:00:52 UTC] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/controllerAddCargo.php on line 22
+[15-Jul-2021 04:00:59 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 9
+[15-Jul-2021 04:00:59 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 16
+[15-Jul-2021 04:01:48 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 9
+[15-Jul-2021 04:01:48 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/sopo77862/ocatest.soporbapp.cl/app/Cargos/Cargo.php on line 16
+[16-Aug-2021 22:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dunp() in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/editCc.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/editCc.php on line 17
+[18-Aug-2021 02:32:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title_file' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `te...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `te...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `te...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `te...', Array)
+#5 /home/s in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 02:37:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 02:38:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 02:50:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 02:51:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 02:57:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.24' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `24...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `24...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `24...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `24...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `24...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 03:40:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 20:28:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jorfgfe@gmail.com' for key 'users_email_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert i in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 20:44:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[18-Aug-2021 20:48:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.26' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:452
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(452): PDO->prepare('insert into `26...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `26...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `26...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `26...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('insert into `26...', Arr in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-Aug-2021 07:28:56 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 11
+[26-Aug-2021 07:31:34 UTC] PHP Warning:  Unterminated comment starting line 11 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 11
+[26-Aug-2021 07:32:30 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 12
+[26-Aug-2021 07:32:41 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 12
+[26-Aug-2021 07:33:31 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 12
+[26-Aug-2021 07:34:52 UTC] PHP Warning:  Unterminated comment starting line 12 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 12
+[26-Aug-2021 07:35:13 UTC] PHP Warning:  Unterminated comment starting line 13 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 13
+[26-Aug-2021 07:35:13 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 11
+[26-Aug-2021 07:37:00 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:37:33 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:37:49 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:38:18 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:38:33 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:39:30 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:39:53 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:40:24 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:40:41 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:41:13 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:42:23 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:42:46 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:43:04 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:44:57 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:45:08 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:45:29 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:45:33 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:45:59 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:46:17 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:46:46 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:47:20 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:48:01 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:49:10 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:49:31 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:50:12 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:51:08 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 14
+[26-Aug-2021 07:52:53 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 18
+[26-Aug-2021 07:53:41 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 18
+[26-Aug-2021 07:53:41 UTC] PHP Warning:  Illegal string offset 'value' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:53:41 UTC] PHP Warning:  Illegal string offset 'value' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 15
+[26-Aug-2021 07:54:58 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:55:41 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:56:09 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:56:45 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:56:58 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:57:47 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 07:57:54 UTC] PHP Warning:  Unterminated comment starting line 19 in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 19
+[26-Aug-2021 14:18:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mail has a deprecated constructor in /home/sopo77862/ocatest.soporbapp.cl/app/Mail/Mail.php on line 3
+[26-Aug-2021 14:18:30 UTC] PHP Fatal error:  Constructor Mail::Mail() cannot be static in /home/sopo77862/ocatest.soporbapp.cl/app/Mail/Mail.php on line 3
+[26-Aug-2021 14:20:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 25
+[26-Aug-2021 14:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Mail::create() from context '' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 47
+[26-Aug-2021 14:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Email::create() from context '' in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Controllers/addInductivo.php on line 47
+[06-Sep-2021 23:24:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Jorge.parra30@gmail.com' for key 'users_email_unique' in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:458
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(458): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(459): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(411): Illuminate\Database\Connection->statement('in in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664

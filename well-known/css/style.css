@@ -1,0 +1,18 @@
+.btn-bapp{
+    color: #fff!important;
+    background: linear-gradient(to top, #009ed8, #6e5192)!important;
+}
+.btn-bapp:hover{
+    color: #c1c1c1;
+}
+.img_profile_bapp{
+    height: 200px;
+    margin-bottom: 8%;
+    width: 200px;
+    background: #fff;
+    margin-left: 8%;
+    margin-right: 20%;
+    border: 1px solid rgba(52,73,94,0.44);
+    padding: 4px;
+    border-radius: 100px!important;
+}

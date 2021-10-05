@@ -1,0 +1,2 @@
+[31-May-2021 16:54:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sopo77862/ocatest.soporbapp.cl/layouts/Entrevista/statusPresencial.php on line 47
+[07-Jun-2021 16:40:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sopo77862/ocatest.soporbapp.cl/layouts/Entrevista/Presencial.php on line 78

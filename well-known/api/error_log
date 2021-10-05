@@ -1,0 +1,95 @@
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 2
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 2
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 2
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 3
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(app/Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 3
+[16-Jun-2021 18:42:43 UTC] PHP Warning:  include(): Failed opening 'app/Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/api/ceoPasswordReset.php on line 3
+[26-Aug-2021 18:17:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Illuminate\Database\Connection::select(), 0 passed in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php on line 199 and at least 1 expected in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:315
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php(199): Illuminate\Database\Connection->select()
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php(9): Illuminate\Database\Capsule\Manager::__callStatic('select', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 315
+[26-Aug-2021 18:17:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Illuminate\Database\Connection::select(), 0 passed in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php on line 199 and at least 1 expected in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:315
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Capsule/Manager.php(199): Illuminate\Database\Connection->select()
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php(9): Illuminate\Database\Capsule\Manager::__callStatic('select', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 315
+[26-Aug-2021 18:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_endcode() in /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php on line 15
+[26-Aug-2021 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function push() in /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php on line 30
+[26-Aug-2021 21:34:49 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Call to undefined method Illuminate\Database\Query\Builder::create() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php:50
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(3055): Illuminate\Database\Query\Builder::throwBadMethodCallException('create')
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php(19): Illuminate\Database\Query\Builder->__call('create', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php on line 50
+[26-Aug-2021 21:38:51 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Call to undefined method Illuminate\Database\Query\Builder::create() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php:50
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(3055): Illuminate\Database\Query\Builder::throwBadMethodCallException('create')
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php(20): Illuminate\Database\Query\Builder->__call('create', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php on line 50
+[26-Aug-2021 21:41:19 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/sopo77862/ocatest.soporbapp.cl/api/inductivos.php on line 42
+[26-Aug-2021 21:49:10 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php on line 23
+[26-Aug-2021 22:00:49 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php on line 23
+[27-Aug-2021 15:54:04 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php on line 23
+[27-Aug-2021 11:55:22 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function update() in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/addInductivo.php on line 26
+[06-Sep-2021 20:19:44 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Call to undefined method Illuminate\Database\Query\Builder::updat() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php:50
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(3055): Illuminate\Database\Query\Builder::throwBadMethodCallException('updat')
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/addComentariosInformativos.php(21): Illuminate\Database\Query\Builder->__call('updat', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php on line 50
+[06-Sep-2021 20:19:44 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Call to undefined method Illuminate\Database\Query\Builder::updat() in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php:50
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(3055): Illuminate\Database\Query\Builder::throwBadMethodCallException('updat')
+#1 /home/sopo77862/ocatest.soporbapp.cl/api/addComentariosInformativos.php(21): Illuminate\Database\Query\Builder->__call('updat', Array)
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/support/Traits/ForwardsCalls.php on line 50
+[14-Sep-2021 12:27:57 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/sopo77862/ocatest.soporbapp.cl/api/mostrarDocumentaria.php on line 19
+[14-Sep-2021 12:28:01 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/sopo77862/ocatest.soporbapp.cl/api/mostrarDocumentaria.php on line 19
+[14-Sep-2021 12:28:27 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/sopo77862/ocatest.soporbapp.cl/api/mostrarDocumentaria.php on line 19
+[14-Sep-2021 12:36:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/sopo77862/ocatest.soporbapp.cl/api/mostrarDocumentaria.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/mostrarDocumentaria.php on line 18
+[14-Sep-2021 14:53:47 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:53:47 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:53:47 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:53:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'CV' cannot be null in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:483
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(483): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `documen...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('update `documen...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(490): Illuminate\Database\Connection->run('update `documen...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(423): Illuminate\Database\Connection->affectingStatement('update `documen...', Array)
+#5 /home/ in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[14-Sep-2021 14:55:51 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:55:51 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:55:51 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:57:37 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:57:37 UTC] PHP Warning:  include(../Database/Database.php): failed to open stream: No such file or directory in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:57:37 UTC] PHP Warning:  include(): Failed opening '../Database/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sopo77862/ocatest.soporbapp.cl/app/Upload/Upload.php on line 3
+[14-Sep-2021 14:57:37 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/sopo77862/ocatest.soporbapp.cl/api/addDocumentaria.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/api/addDocumentaria.php on line 12

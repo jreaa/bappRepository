@@ -1,0 +1,43 @@
+[08-Dec-2020 13:02:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:12
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(12): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(31): Sesion->iniciarSesion('10521657-2', '123')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 12
+[08-Dec-2020 13:05:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:12
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(12): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(31): Sesion->iniciarSesion('admin', 'admin')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 12
+[08-Dec-2020 13:07:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:12
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(12): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(31): Sesion->iniciarSesion('admin', 'admin')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 12
+[08-Dec-2020 13:11:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:12
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(12): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(31): Sesion->iniciarSesion('10521657-2', '123')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 12
+[08-Dec-2020 13:28:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php on line 49
+[08-Dec-2020 13:35:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '10521657-2'' at line 1 in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:78
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(78): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(39): Sesion->obtenerDireccionUsuario('10521657-2')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 78
+[08-Dec-2020 13:36:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:67
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(67): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(40): Sesion->obtenerTelefonoUsuario('10521657-2')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 67
+[08-Dec-2020 13:36:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.users' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php:67
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php(67): PDOStatement->execute()
+#1 /home/sopo77862/ocatest.soporbapp.cl/app/webService/web-service/iniciar-sesion.php(40): Sesion->obtenerTelefonoUsuario('10521657-2')
+#2 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/webService/negocio/Sesion.clase.php on line 67

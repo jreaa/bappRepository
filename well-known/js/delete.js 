@@ -1,0 +1,12 @@
+
+function deleteUser(id, sentencia="sentencia", controller="controller", p){
+    if(p == 1){
+    	if(confirm(sentencia)){
+		window.location=controller+"?id="+id;
+	    }
+    }
+    if(p == 3){
+        alert("Usted no tiene los permisos para ejecutar esta accion");
+    }
+
+}

@@ -1,0 +1,1 @@
+[22-Mar-2021 17:37:08 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/sopo77862/ocatest.soporbapp.cl/webServices/controles.php on line 19

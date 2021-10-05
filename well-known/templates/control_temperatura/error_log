@@ -1,0 +1,77 @@
+[23-Feb-2021 17:31:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[23-Feb-2021 17:31:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[23-Feb-2021 17:31:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[23-Feb-2021 17:31:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[23-Feb-2021 17:31:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[24-Feb-2021 17:46:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[15-Mar-2021 03:14:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[15-Mar-2021 03:14:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[26-Mar-2021 21:14:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[29-Mar-2021 14:39:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664
+[30-Mar-2021 19:41:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sopo77862_oca2.control_temperatura' doesn't exist in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php:326
+Stack trace:
+#0 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(326): PDO->prepare('select * from `...')
+#1 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(657): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Query/Builder.php(2130): Illuminate\Database\Connection->select('select in /home/sopo77862/ocatest.soporbapp.cl/vendor/illuminate/database/Connection.php on line 664

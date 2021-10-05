@@ -1,0 +1,4 @@
+[22-Dec-2020 20:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/sopo77862/ocatest.soporbapp.cl/app/Mail/maltest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sopo77862/ocatest.soporbapp.cl/app/Mail/maltest.php on line 12
